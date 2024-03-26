@@ -4,7 +4,7 @@
 
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=Nathan-Woolmore.Nathan-Woolmore)
 
-## 🏄‍♂️ About Me
+## About Me
 Hey there! I'm Nate, a self-taught app developer from Auckland, New Zealand. I discovered my passion for coding through the joy of problem-solving and the creative freedom it provides. When I'm not immersed in coding, you can usually find me catching waves or hitting the gym. I'm always eager to collaborate with like-minded people on exciting projects that make a positive impact. If you've got an idea or just want to connect, feel free to reach out!
 <br>
 
@@ -16,7 +16,7 @@ Hey there! I'm Nate, a self-taught app developer from Auckland, New Zealand. I d
 
 <p>Lucidity Level is an app designed to help users achieve lucid dreaming and explore their dreams. With a variety of features and tools, it aims to make the lucid dreaming experience more accessible and enjoyable.</p>
 
-<h4>🌟 Key Features</h4>
+<h4>Key Features</h4>
 
 <ul>
   <li><strong>Dream Journal</strong>: Keep track of your dreams and analyze patterns over time.</li>
@@ -24,9 +24,6 @@ Hey there! I'm Nate, a self-taught app developer from Auckland, New Zealand. I d
   <li><strong>Lucid Dreaming Techniques</strong>: Learn and practice various techniques to induce lucid dreams.</li>
   <li><strong>Cloud Storage</strong>: Move your Journal between devices</li>
 </ul>
-
-
-<h4>📥 Download Now</h4>
 
 <a href="https://play.google.com/store/apps/details?id=studio.victorylapp.lucidlevelup&hl=en_US" target="_blank">
   <img src="https://img.shields.io/badge/Google%20Play-Download-blue?style=for-the-badge&logo=google-play" alt="Google Play Download Badge" />
@@ -39,15 +36,13 @@ Hey there! I'm Nate, a self-taught app developer from Auckland, New Zealand. I d
 
 <p>MILD Trainer is a tool designed to increase prospective memory by using a technique formulated by Dr. Stephen Laberge (Author of "Exploring the World of Lucid Dreaming") after discovering most people lack the prospective memory required to successfully achieve MILD.</p>
 
-<h4>🌟 Key Features</h4>
+<h4>Key Features</h4>
 
 <ul>
   <li><strong>Full Guide</strong>: Featuring a full guide to Mnemonic Induction of Lucid Dreams, the preparation required, and the technique itself.</li>
   <li><strong>Daily Events</strong>: Each morning, the app sets up a list of everyday items or 'events' you are likely to encounter at least once during your day.</li>
   <li><strong>Prospective Memory Training</strong>: By consistently using the app and performing the assigned tasks, you can train your prospective memory and increase your chances of successful MILD.</li>
 </ul>
-
-<h4>📥 Download Now</h4>
 
 <a href="https://apps.apple.com/pl/app/mild-trainer-lucid-dream-tool/id1530667456" target="_blank">
   <img src="https://img.shields.io/badge/App%20Store-Download-blue?style=for-the-badge&logo=app-store" alt="App Store Download Badge" />
