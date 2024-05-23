@@ -23,16 +23,16 @@ Hello! I'm Nathan, a developer from Auckland, New Zealand. I enjoy programming a
 
 <img src="https://github.com/Nathan-Woolmore/projectImages/blob/main/FlexiAlarm.png?raw=true" width="250" alt="FlexiAlarm">
 
-FlexiAlarm is a watchOS app designed to enhance your sleep experience with a variety of smart features and HealthKit integration. Designed to be the most custimizable watchOS app on the market.
+FlexiAlarm is a watchOS app designed to enhance your sleep experience with a variety of smart features and HealthKit integration. Designed to be the most custimizable alarm app for watchOS, allowing as much flexibility as watchOS allows.
 
 #### Key Features
 
--   **Smart Alarms**
--   **Customizable Alarms**
--   **Power Nap Feature**
--   **Sleep Data Insights**
--   **Intuitive User Interface**
--   **Widget/Complication**
+-   **Smart Alarms**: Set alarms which will wake you during light sleep.
+-   **Customizable Alarms**: Choose vibration intensity, patterns and delays.
+-   **Power Nap Feature**: Easy power nap functionalilty.
+-   **Sleep Data Insights**: Reads your sleep data to display REM, Deep, Core and total sleep along with how many awakenings you had in the night.
+-   **Intuitive User Interface**: Designed to be easy on the eye and minimal where it counts.
+-   **Widget/Complication**: Widget to display your sleep quality as a metric of 0-100%.
 
 [![App Store Download](https://img.shields.io/badge/App%20Store-Download-blue?style=for-the-badge&logo=app-store)](https://apps.apple.com/us/app/flexialarm/id6502886443)
 
