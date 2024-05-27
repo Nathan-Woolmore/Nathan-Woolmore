@@ -1,7 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=000000&width=1000&lines=System.out.println(%22Welcome+to+Nate's+Github+page!%22);)](https://git.io/typing-svg)
 [![LinkedIn Profile](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/nathan-woolmore)
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=Nathan-Woolmore.Nathan-Woolmore)
-![Twitter Follow](https://img.shields.io/twitter/follow/Nate_James_W?style=social)
 
 ## About Me
 
