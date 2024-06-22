@@ -4,7 +4,7 @@
 
 ## About Me
 
-Hello! I'm Nathan, a developer from Auckland, New Zealand. I enjoy programming and specialize in iOS app development, but I'm open to a variety of projects and opportunities. I'm passionate about creating beautiful and intuitive apps that provide great user experiences. I believe in the importance of good design and always strive to craft apps that are both visually appealing and user-friendly. Feel free to reach out to me!
+Hello! I'm Nathan, an indie developer from Auckland, New Zealand. I specialize in iOS app development, but I'm open to a variety of projects and opportunities. I'm passionate about creating beautiful and intuitive apps that provide great user experiences. I believe in the importance of good design and always strive to craft apps that are both visually appealing and user-friendly. Feel free to reach out to me!
 
 -   **Programming Languages**: Swift, Java, XML, Python, C#.
 -   **Frameworks & Tools**: UIKit, SwiftUI, Xcode, Git, CoreData, Android Studio, RESTful APIs, Adobe.
