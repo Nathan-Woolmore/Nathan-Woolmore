@@ -1,13 +1,15 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=000000&width=1000&lines=System.out.println(%22Welcome+to+Nate's+Github+page!%22);)](https://git.io/typing-svg)
 [![LinkedIn Profile](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/nathan-woolmore)
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=Nathan-Woolmore.Nathan-Woolmore)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Nathan-Woolmore)](https://git.io/streak-stats)
+
 
 ## About Me
 
 Hello! I'm Nathan, an indie developer from Auckland, New Zealand. I specialize in iOS app development, but I'm open to a variety of projects and opportunities. I'm passionate about creating beautiful and intuitive apps that provide great user experiences. I believe in the importance of good design and always strive to craft apps that are both visually appealing and user-friendly. Feel free to reach out to me!
 
 -   **Programming Languages**: Swift, Java, XML, Python, C#.
--   **Frameworks & Tools**: UIKit, SwiftUI, Xcode, Git, CoreData, Android Studio, RESTful APIs, Adobe.
+-   **Frameworks & Tools**: UIKit, SwiftUI, Xcode, Git, SwiftData, Android Studio, Xcode, VS Code, Adobe.
 -   **Other Skills**: UI/UX Design, Problem Solving, Databases and SQL, AWS Cloud.
 
 <br>
@@ -105,4 +107,6 @@ Feel free to check out my repo.
 <img src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg" width="40" height="40" title="Swift" alt="Swift">&nbsp;
 
 ---
+
+![GitHub Contribution Calendar](https://ghchart.rshah.org/Nathan-Woolmore)
 
