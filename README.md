@@ -1,10 +1,9 @@
-[![LinkedIn Profile](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/nathan-woolmore)
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=Nathan-Woolmore.Nathan-Woolmore)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Nathan-Woolmore)](https://git.io/streak-stats)
 
 
 ## About Me
+[![LinkedIn Profile](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/nathan-woolmore)
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=Nathan-Woolmore.Nathan-Woolmore)
 
 Hello! I'm Nathan, an indie developer from Auckland, New Zealand. I specialize in iOS app development, but I'm open to a variety of projects and opportunities. I'm passionate about creating beautiful and intuitive apps that provide great user experiences. I believe in the importance of good design and always strive to craft apps that are both visually appealing and user-friendly. Feel free to reach out to me!
 
