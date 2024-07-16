@@ -107,5 +107,4 @@ Feel free to check out my repo.
 
 ---
 
-![GitHub Contribution Calendar](https://ghchart.rshah.org/Nathan-Woolmore)
 
